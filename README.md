@@ -15,3 +15,22 @@
 **Example**: // #15 - 20/12/2019 - 005- ATG
 
 ---
+
+## Variable Declaration
+**Example**: 'Sales Header' --> SalesHeader, 'Sales Invoice Header' --> SalesInvoiceHeader, 'G/L Account' --> GLAccount
+
+---
+
+## Field Creation
+ATG - It is reserved word for Aplica. It needs to be added as Suffix in new Field & Object. Caption shouldn't have Suffix
+
+**Example**: 'First Name ATG', 'Serial No. ATG'
+
+---
+
+## Object Creation
+ATG - It is reserved word for Aplica. It needs to be added as Suffix in new Field & Object. Caption shouldn't have Suffix
+
+**Example**: 'HR Details ATG', 'Salary Increment Header ATG'
+
+---
