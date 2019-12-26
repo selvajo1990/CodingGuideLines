@@ -34,3 +34,8 @@ ATG - It is reserved word for Aplica. It needs to be added as Suffix in new Fiel
 **Example**: 'HR Details ATG', 'Salary Increment Header ATG'
 
 ---
+
+## Caption Property
+All the table fields should have caption property.
+
+---
