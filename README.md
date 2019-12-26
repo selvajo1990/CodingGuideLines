@@ -40,7 +40,7 @@ All the table fields should have caption property.
 
 ---
 
-## Primary key field in 1 to 20 field range for new table
-When creating new table assign 1 to 20 field no. for primary key other field should start from field no. 21 
+## Primary key field - 1 to 20 field no. for new table
+When creating new table assign 1 to 20 field no. for primary key, other field should start from field no. 21 
 
 ---
