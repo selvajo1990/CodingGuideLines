@@ -39,3 +39,8 @@ ATG - It is reserved word for Aplica. It needs to be added as Suffix in new Fiel
 All the table fields should have caption property.
 
 ---
+
+## Primary key field in 1 to 20 field range
+When creating new table assign 1 to 20 field no. for primary key other field should start from field no. 21 
+
+---
