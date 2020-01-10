@@ -17,7 +17,15 @@
 ---
 
 ## Variable Declaration
-**Example**: 'Sales Header' --> SalesHeader, 'Sales Invoice Header' --> SalesInvoiceHeader, 'G/L Account' --> GLAccount
+**Example**: 
+
+**Global** 'Sales Header' --> SalesHeaderG, (declaration of same variable again should follow) SalesHeader2G
+
+**Local**  'Sales Invoice Header' --> SalesInvoiceHeaderL
+
+**Parameter** 'G/L Account' --> GLAccountP
+
+**Return** 'Amount' --> AmountR
 
 ---
 
