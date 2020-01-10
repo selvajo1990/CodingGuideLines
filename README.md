@@ -30,25 +30,36 @@
 ---
 
 ## Field Creation
-ATG - It is reserved word for Aplica. It needs to be added as Suffix in new Field & Object. Caption shouldn't have Suffix
 
-**Example**: 'First Name ATG', 'Serial No. ATG'
+Primary key field must be - 1 to 20 field no. for new table, other field should start from field no. 21
+
+For Extension - field id must start with app.json object range 
+
+All the table fields mush have caption property.
 
 ---
 
 ## Object Creation
-ATG - It is reserved word for Aplica. It needs to be added as Suffix in new Field & Object. Caption shouldn't have Suffix
+Any new object creation should have the following file name format
 
-**Example**: 'HR Details ATG', 'Salary Increment Header ATG'
+**Example**:
 
----
+Table           --> Tab.50102.VisaType.al
 
-## Caption Property
-All the table fields should have caption property.
+Table Extension --> Ext54106-Tab17.GLEntry.al
 
----
+Page            --> Pag.54101.Levels.al
 
-## Primary key field - 1 to 20 field no. for new table
-When creating new table assign 1 to 20 field no. for primary key, other field should start from field no. 21 
+Page Extension  --> Ext54107-Pag101.GenJnlTemplate.al
+
+Report          --> Rep.54101.SalaryComputation.al
+
+Codeunit        --> Cod.54101.HumanResourceEvents.al
+
+Query           --> Que.54101.SalaryComputationList.al
+
+Xmlport         --> Xml.54101.EmployeeList.al
+
+Note: no special character on naming
 
 ---
