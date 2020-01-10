@@ -50,7 +50,7 @@ Table Extension --> Tab.50101.Ext5201.Employee.al
 
 Page            --> Pag.54101.Levels.al
 
-Page Extension  --> Tab.50101.Ext81.GenJnlTemplate.al
+Page Extension  --> Pag.50101.Ext81.GenJnlTemplate.al
 
 Report          --> Rep.54101.SalaryComputation.al
 
