@@ -60,6 +60,4 @@ Query           --> Que.54101.SalaryComputationList.al
 
 Xmlport         --> Xml.54101.EmployeeList.al
 
-Note: no special character on naming
-
 ---
