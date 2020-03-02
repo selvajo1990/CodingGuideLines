@@ -46,11 +46,11 @@ Any new object creation should have the following file name format
 
 Table           --> Tab50102.VisaType.al
 
-Table Extension --> Tab50101.Ext5201.Employee.al
+Table Extension --> Tab-Ext50101.Employee.al
 
 Page            --> Pag54101.Levels.al
 
-Page Extension  --> Pag50101.Ext81.GenJnlTemplate.al
+Page Extension  --> Pag-Ext50101.GenJnlTemplate.al
 
 Report          --> Rep54101.SalaryComputation.al
 
