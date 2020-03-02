@@ -44,20 +44,20 @@ Any new object creation should have the following file name format
 
 **Example**:
 
-Table           --> Tab.50102.VisaType.al
+Table           --> Tab50102.VisaType.al
 
-Table Extension --> Tab.50101.Ext5201.Employee.al
+Table Extension --> Tab50101.Ext5201.Employee.al
 
-Page            --> Pag.54101.Levels.al
+Page            --> Pag54101.Levels.al
 
-Page Extension  --> Pag.50101.Ext81.GenJnlTemplate.al
+Page Extension  --> Pag50101.Ext81.GenJnlTemplate.al
 
-Report          --> Rep.54101.SalaryComputation.al
+Report          --> Rep54101.SalaryComputation.al
 
-Codeunit        --> Cod.54101.HumanResourceEvents.al
+Codeunit        --> Cod54101.HumanResourceEvents.al
 
-Query           --> Que.54101.SalaryComputationList.al
+Query           --> Que54101.SalaryComputationList.al
 
-Xmlport         --> Xml.54101.EmployeeList.al
+Xmlport         --> Xml54101.EmployeeList.al
 
 ---
