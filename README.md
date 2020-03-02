@@ -40,7 +40,7 @@ All the table fields mush have caption property.
 ---
 
 ## Object Creation
-Any new object creation should have the following file name format
+Any new object creation should have the following file name format. Object naming should be meaningful
 
 **Example**:
 
